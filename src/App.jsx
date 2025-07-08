@@ -1,5 +1,4 @@
 import './App.scss';
-import { use } from 'chai';
 import { useState } from 'react';
 
 import { MoviesList } from './components/MoviesList';
